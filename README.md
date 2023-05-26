@@ -10,8 +10,8 @@ Sections Included in the Form
 1. Customer Information: This includes mandatory fields for name, email.
 
 2. Product or Service Experience: This section contains questions to understand the customer's perception of our product or service.
-Question: How would you rate the quality of our product/service?
-Options: Loved it, Pretty good, Just OK, Not great, Didn't like it at all
+   Question: How would you rate the quality of our product/service?
+   Options: Loved it, Pretty good, Just OK, Not great, Didn't like it at all
 
 3. Customer Service Experience: This part aims to gather feedback about the customer's interaction with our customer service team.
 
